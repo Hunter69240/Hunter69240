@@ -1,7 +1,42 @@
-# 💫 Hi,I'm Aadish D Somayaji!
-👨‍💻 About Me<br>🔭 I’m currently working on<br>Building AI-powered full-stack systems with speech processing and embedding pipelines, and developing a technical blog website to share insights on AI, system design, and scalable application architecture.<br>👯 I’m looking to collaborate on<br>Any kind of meaningful collaboration — open-source projects, AI applications, frontend/backend systems, research implementations, or innovative product ideas that solve real-world problems.<br>🤝 I’m looking for help with<br>Advanced LLM optimization, efficient model deployment strategies, scaling multi-service containerized architectures, and CUDA-based parallel computing for performance-intensive workloads.<br>🌱 I’m currently learning<br>Advanced frontend architecture, scalable backend system design, CUDA programming for parallel computation, and deeper AI/ML model evaluation techniques.<br>💬 Ask me about<br>React architecture, Docker networking, AI-powered applications, Whisper integrations, embedding pipelines, CUDA basics, or building full-stack systems from scratch.<br>⚡ Fun fact<br>I enjoy breaking down complex systems — whether it’s container networking, recursive rendering engines, CUDA parallelism, or multi-layer AI evaluation workflows — and rebuilding them cleaner and smarter.
+# 👋 Hi, I'm Aadish D Somayaji
 
+🚀 **AI Engineer | Full-Stack Developer | CUDA Enthusiast**  
+Building intelligent systems that combine AI, scalable backend architecture, and production-ready deployments.
 
+---
+
+## 🧠 About Me
+
+### 🔭 Currently Working On
+- AI-powered full-stack systems (speech processing + embedding pipelines)
+- A technical blog website focused on AI, system design, and scalable architecture
+
+### 👯 Open to Collaborate On
+- Open-source projects
+- AI/ML applications
+- Frontend & backend systems
+- Research implementations
+- Innovative product ideas solving real-world problems
+
+### 🤝 Looking for Help With
+- Advanced LLM optimization
+- Efficient model deployment strategies
+- Scaling multi-service containerized architectures
+- CUDA-based parallel computing for performance-intensive workloads
+
+### 🌱 Currently Learning
+- Advanced frontend architecture
+- Scalable backend system design
+- CUDA programming & parallel computing
+- Deeper AI/ML model evaluation techniques
+
+### 💬 Ask Me About
+React architecture, Docker networking, AI-powered systems, Whisper integrations, embedding pipelines, CUDA basics, or building full-stack systems from scratch.
+
+### ⚡ Fun Fact
+I enjoy breaking down complex systems — whether it’s container networking, recursive rendering engines, CUDA parallelism, or multi-layer AI evaluation workflows — and rebuilding them cleaner and smarter.
+
+---
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/aadish-d-somayaji-787b952a8) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aadishds@gmail.com) 
 
